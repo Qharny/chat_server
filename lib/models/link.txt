@@ -1,0 +1,27 @@
+# Dart WebSocket Chat Server
+
+📱💬 Excited to share my latest project: a real-time chat server built with Dart!
+
+🚀 Key Features:
+• WebSocket-based for instant communication
+• Supports multiple concurrent clients
+• Efficient message broadcasting
+• Robust error handling and logging
+
+🛠️ Tech Stack:
+• Dart
+• shelf & shelf_web_socket for server setup
+• web_socket_channel for WebSocket management
+• logging for comprehensive error tracking
+
+This project showcases my skills in:
+✅ Backend development with Dart
+✅ Real-time communication protocols
+✅ Scalable server architecture
+✅ Clean code practices and project structuring
+
+🔗 Check out the repository: [Your GitHub Link]
+
+Always eager to discuss tech! Feel free to reach out if you'd like to chat about Dart, WebSockets, or backend development.
+
+#Dart #WebSockets #BackendDevelopment #RealTimeCommunication #SoftwareEngineering
