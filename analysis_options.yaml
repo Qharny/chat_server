@@ -13,7 +13,8 @@
 
 analyzer:
   errors:
-    depend_on_referenced_packages: ignore ignore ignore ignore
+    avoid_relative_lib_imports: ignore
+    depend_on_referenced_packages: ignore
     unused_import: ignore
 include: package:lints/recommended.yaml
 

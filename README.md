@@ -38,7 +38,7 @@ The server will start running on `ws://localhost:8080` by default.
 
 ## Project Structure
 
-```
+```txt
 chat_server/
 │
 ├── bin/
