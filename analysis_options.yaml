@@ -15,7 +15,6 @@ analyzer:
   errors:
     avoid_relative_lib_imports: ignore
     depend_on_referenced_packages: ignore
-    unused_import: ignore
 include: package:lints/recommended.yaml
 
 # Uncomment the following section to specify additional rules.

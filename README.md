@@ -19,17 +19,20 @@ To run this project, you need to have the following installed:
 ## Setup
 
 1. Clone the repository:
+
    ```
-   git clone https://github.com/yourusername/dart-chat-server.git
-   cd dart-chat-server
+   git clone https://github.com/qharny/chat_server.git
+   cd chat_server
    ```
 
 2. Install dependencies:
+
    ```
    dart pub get
    ```
 
 3. Run the server:
+
    ```
    dart run bin/server.dart
    ```

@@ -9,7 +9,7 @@ void main() {
 
   setUp(() async {
     // Start the server
-    server = await Process.start('dart', ['bin/cha_server.dart']);
+    server = await Process.start('dart', ['bin/chat_server.dart']);
     // Wait for the server to start
     await Future.delayed(Duration(seconds: 2));
     // Connect to the server

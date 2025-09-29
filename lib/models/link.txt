@@ -20,7 +20,7 @@ This project showcases my skills in:
 ✅ Scalable server architecture
 ✅ Clean code practices and project structuring
 
-🔗 Check out the repository: [Your GitHub Link]
+🔗 Check out the repository: https://github.com/qharny/chat_server.git
 
 Always eager to discuss tech! Feel free to reach out if you'd like to chat about Dart, WebSockets, or backend development.
 
